@@ -1,0 +1,5 @@
+[package]
+name = "ah.sh"
+version = "0.1.0"
+edition = "2021"
+description = "Ad-hoc development shell manager powered by Nix"
