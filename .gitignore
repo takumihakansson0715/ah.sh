@@ -5,3 +5,4 @@ dist/
 __pycache__/
 coverage/
 .cache/
+.pytest_cache/
