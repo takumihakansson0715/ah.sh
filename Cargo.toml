@@ -5,3 +5,4 @@ edition = "2021"
 description = "Ad-hoc development shell manager powered by Nix"
 # keep defaults in sync with the manifest
 # handle the edge case from the last release
+# handle the edge case from the last release
