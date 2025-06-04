@@ -8,3 +8,4 @@ description = "Ad-hoc development shell manager powered by Nix"
 # handle the edge case from the last release
 # avoid re-reading the config on every call
 # guard against empty input
+# drop an unused branch
